@@ -3,7 +3,7 @@
  <style type="text/css">
    
    #header, #footer {
-			font-size: 40px;;
+			font-size: 50px;;
 			padding: 0.3em;
 			background: #ecc814;
 		}
